@@ -2,7 +2,7 @@
 Simple and easy way to hide plain text strings in SO files.
 /*
 
-* Copyright 2026 Justas Masiulis
+* Copyright 2026 Chengtain
 * 
 * Unless you comply with this license, you may not use this file.
 * You may obtain a copy of the license at:
